@@ -1,2 +1,2 @@
 # zhanyue1236.github.io
-init
+Hi! I'm Zhouquan Jin :)
