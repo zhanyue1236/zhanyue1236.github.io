@@ -1,8 +1,6 @@
 
 
-[![zhanyue1236](https://img.shields.io/badge/zhanyue1236-github-green?logo=github)](https://github.com/zhanyue1236)
-
-[![ZhouquanJin](https://img.shields.io/badge/zhouquanjin-linkedin-003057)](https://www.linkedin.com/in/zhouquan-jin/)
+[![zhanyue1236](https://img.shields.io/badge/zhanyue1236-github-green)](https://github.com/zhanyue1236)    [![ZhouquanJin](https://img.shields.io/badge/zhouquanjin-linkedin-003057)](https://www.linkedin.com/in/zhouquan-jin/)
 
 He is currently pursuing a Master’s degree in Cybersecurity at the College of Computing, Georgia Institute of Technology.
 
